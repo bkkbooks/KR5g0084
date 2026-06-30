@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0084/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0084/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雨暘氣候親機
+  date: '2015-08-29 02:53:54.274577'
+  source:
+    repository: kanripo
+    path: KR5g0084
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0084_000-ZTDZ.yaml, hash: 'sha256:4b4f882e6b09ba1e27259530898db7b9948d4705489557de5b3a26f97c10f1d9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0084_000-ZTDZ.markers.yaml, hash: 'sha256:741428fbbe86286782ae836f04e40b7bbc7a3b6f53bd41865c275d4890cf0530'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0084_SJB_000-320597b
+    span:
+    - body
+    - 0
+    - 4031
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:68a9892c580e1034fe66c26ade618f2ef33dacbf9a50b5b2a693494095b8efc3
